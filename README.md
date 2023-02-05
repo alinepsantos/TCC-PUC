@@ -1,2 +1,2 @@
-# TCC-PUC
-TC-PUC- Ciências de Dados e Big Data
+# TCC_PUC
+TCS-PUC- Ciências de Dados e Big Data
